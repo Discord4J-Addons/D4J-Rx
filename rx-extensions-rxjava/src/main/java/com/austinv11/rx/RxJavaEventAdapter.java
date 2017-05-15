@@ -30,7 +30,7 @@ public class RxJavaEventAdapter implements IEventAdapter {
 	 */
 	@Override
 	public <T extends Event> Flowable<T> stream(Class<T> c) {
-		return eventFlowable.filter(e -> c.isAssignableFrom(e.getClass())).map(e -> (T) e);
+		return eventFlowable.ofType(c);
 	}
 	
 	/**

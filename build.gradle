@@ -9,7 +9,7 @@ buildscript {
 
 allprojects {
     group 'com.austinv11.rx'
-    version '1.0'
+    version '1.1'
 
     task wrapper(type: Wrapper) {
         gradleVersion = '3.4.1'

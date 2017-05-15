@@ -29,7 +29,7 @@ public class ReactorEventAdapter implements IEventAdapter {
 	 */
 	@Override
 	public <T extends Event> Flux<T> stream(Class<T> c) {
-		return flux.filter(e -> c.isAssignableFrom(e.getClass())).map(e -> (T) e);
+		return flux.ofType(c);
 	}
 	
 	/**
