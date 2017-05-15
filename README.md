@@ -16,7 +16,7 @@ which is used to transform events into a reactive stream.
 
 This module supports RxJava 2.x. Instantiating a `RxJavaEventAdapter` class will provide streams in the form of `Flowable<? extends Event>`.
 
-### Reactor modules
+### Reactor module
 
 This module supports Reactor 3.x. Instantiating a `ReactorEventAdapter` class will provide streams in the form of `Flux<? extends Event>`.
 
