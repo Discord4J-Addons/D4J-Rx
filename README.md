@@ -7,7 +7,7 @@ This module contains adapters for the EventDispatcher to utilize [Reactive Strea
 This module includes the `IEventAdapter` interface which provides a common abstraction for adapting Discord4J events to 
 reactive streams. This can either be implemented yourself or by using a default implementation in one of the modules.
 
-The `IEventAdapter` has two methods, `IEventAdapter#steamAll()` and `IEventAdapter#stream(Class<? extends Event> event)`
+The `IEventAdapter` has two methods, `IEventAdapter#streamAll()` and `IEventAdapter#stream(Class<? extends Event> event)`
 which is used to transform events into a reactive stream.
 
 ## Modules
