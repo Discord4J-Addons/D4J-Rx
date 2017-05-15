@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel>
+      <module name="rx-extensions-core_main" target="1.8" />
+      <module name="rx-extensions-core_test" target="1.8" />
+      <module name="rx-extensions-reactor_main" target="1.8" />
+      <module name="rx-extensions-reactor_test" target="1.8" />
+      <module name="rx-extensions-rxjava_main" target="1.8" />
+      <module name="rx-extensions-rxjava_test" target="1.8" />
+      <module name="rx-extensions_main" target="1.8" />
+      <module name="rx-extensions_test" target="1.8" />
+      <module name="RxBot_main" target="1.8" />
+      <module name="RxBot_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

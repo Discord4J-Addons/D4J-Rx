@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RxBot.iml" filepath="$PROJECT_DIR$/.idea/modules/RxBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-extensions.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-extensions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-extensions-core/rx-extensions-core.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-extensions-core/rx-extensions-core.iml" group="rx-extensions-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-extensions-core/rx-extensions-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-extensions-core/rx-extensions-core_main.iml" group="rx-extensions-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-extensions-core/rx-extensions-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-extensions-core/rx-extensions-core_test.iml" group="rx-extensions-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-extensions-reactor/rx-extensions-reactor.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-extensions-reactor/rx-extensions-reactor.iml" group="rx-extensions-reactor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-extensions-reactor/rx-extensions-reactor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-extensions-reactor/rx-extensions-reactor_main.iml" group="rx-extensions-reactor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-extensions-reactor/rx-extensions-reactor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-extensions-reactor/rx-extensions-reactor_test.iml" group="rx-extensions-reactor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-extensions-rxjava/rx-extensions-rxjava.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-extensions-rxjava/rx-extensions-rxjava.iml" group="rx-extensions-rxjava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-extensions-rxjava/rx-extensions-rxjava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-extensions-rxjava/rx-extensions-rxjava_main.iml" group="rx-extensions-rxjava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rx-extensions-rxjava/rx-extensions-rxjava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rx-extensions-rxjava/rx-extensions-rxjava_test.iml" group="rx-extensions-rxjava" />
+    </modules>
+  </component>
+</project>

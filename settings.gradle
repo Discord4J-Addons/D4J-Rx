@@ -1,0 +1,5 @@
+rootProject.name = 'rx-extensions'
+
+include 'rx-extensions-core'
+include 'rx-extensions-rxjava'
+include 'rx-extensions-reactor'
