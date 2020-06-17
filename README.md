@@ -1,3 +1,8 @@
+# This library is DEFUNCT
+Use [Discord4J v3](https://discord4j.com) instead!
+
+This library was created for Discord4J v2 which is no longer supported or maintained.
+
 # Rx Extensions for Discord4J [![Download](https://jitpack.io/v/Discord4J-Addons/D4J-Rx.svg?style=flat-square)](https://jitpack.io/#Discord4J-Addons/D4J-Rx)
 
 This module contains adapters for the EventDispatcher to utilize [Reactive Streams](http://www.reactive-streams.org/).
